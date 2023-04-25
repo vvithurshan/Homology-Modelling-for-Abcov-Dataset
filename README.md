@@ -1,1 +1,3 @@
 # Homology-Modelling-for-Abcov-Dataset
+
+This project involved the development of a Python script that can generate 1100 structure files for the Abcov dataset using Modeller. The dataset contains information on PDB files of complexes, mutation profiles, and corresponding IC50 values. Using the mutation profiles, mutated FASTA sequences were created, and these sequences were then utilized to create PDB files with Modeller. The resulting script allows for easy generation of homology models for Abcov dataset structures, which can be valuable for downstream analysis and prediction of binding affinity.
